@@ -1,4 +1,4 @@
-# Gimnasio Mental de Lógica Secuencial — TC1004B
+# Entenamiento Mental de Lógica Secuencial — TC1004B
 
 Versión 2.1. Sitio web estático e independiente para GitHub Pages.
 
